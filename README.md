@@ -12,7 +12,7 @@ Always be humble, keep learning, building things
 
 ## 👨‍💻 About Me
 
-- 🎓 Electrical Engineering student at UWaterloo
+- 🎓 Electrical Engineering 
 - 💻 Currently learning C++, Python, Git, and web development
 - ⚡ Interested in electronics, embedded systems, software, and engineering
 - 🔧 I enjoy building hands-on projects and figuring out how things work
