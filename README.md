@@ -4,7 +4,7 @@
 
 ### Electrical Engineering Student @ University of Waterloo
 
-Building things, learning how they work, and occasionally breaking them along the way.
+Always be humble, keep learning, building things 
 
 </div>
 
