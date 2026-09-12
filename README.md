@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm James 👋
+# Hi, I'm James 
 
 ### Electrical Engineering Student @ University of Waterloo
 
@@ -12,7 +12,7 @@ Always be humble, keep learning, building things
 
 ## 👨‍💻 About Me
 
-- 🎓 Electrical Engineering student at the University of Waterloo
+- 🎓 Electrical Engineering student at UWaterloo
 - 💻 Currently learning C++, Python, Git, and web development
 - ⚡ Interested in electronics, embedded systems, software, and engineering
 - 🔧 I enjoy building hands-on projects and figuring out how things work
