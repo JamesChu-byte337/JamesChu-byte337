@@ -2,7 +2,7 @@
 
 # Hi, I'm James 
 
-### Electrical Engineering Student @ University of Waterloo
+#UWaterloo
 
 Always be humble, keep learning, building things 
 
