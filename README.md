@@ -4,7 +4,7 @@
 
 #UWaterloo
 
-Always be humble, keep learning, building things 
+"I wish upon you ample doses of pain and suffering. Greatness is not intelligence. Greatness comes from character." — Jensen Huang
 
 </div>
 
@@ -13,10 +13,9 @@ Always be humble, keep learning, building things
 ## 👨‍💻 About Me
 
 - 🎓 Electrical Engineering 
-- 💻 Currently learning C++, Python, Git, and web development
-- ⚡ Interested in electronics, embedded systems, software, and engineering
-- 🔧 I enjoy building hands-on projects and figuring out how things work
+- 💻 C++, Python (Learning in progress), Swift development 
+- 🔧 I enjoy building hands-on projects, developing apps, and collecting ideas here! 
 - 📷 Also interested in photography and technology
-- 🚀 Currently looking to grow my skills through projects and co-op opportunities
 
+# Be humble and keep learning 
 ---
