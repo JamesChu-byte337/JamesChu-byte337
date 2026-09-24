@@ -4,7 +4,8 @@
 
 #UWaterloo
 
-"I wish upon you ample doses of pain and suffering. Greatness is not intelligence. Greatness comes from character." — Jensen Huang
+"I wish upon you ample doses of pain and suffering. 
+Greatness is not intelligence. Greatness comes from character." — Jensen Huang
 
 </div>
 
