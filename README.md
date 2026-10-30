@@ -11,5 +11,4 @@
 - 🔧 I enjoy building hands-on projects, developing apps, and collecting ideas here! 
 - 📷 Also interested in photography and technology
 
-# Be humble and keep learning 
 ---
