@@ -3,8 +3,6 @@
 
 <img src="assets/banner.svg" width="100%" alt="Pixel-art room with James Zhu's latest commits scrolling on the monitor">
 
-<sub>The monitor scrolls my latest commits; the shelf holds a book for each language I write.</sub>
-
 <br><br>
 
 <img src="assets/about.svg" width="100%" alt="James Zhu · Electrical Engineering · University of Waterloo">
