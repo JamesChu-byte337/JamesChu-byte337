@@ -1,0 +1,140 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="840" height="420" viewBox="0 0 840 420" role="img" aria-label="Pixel-art room for James Zhu; the monitor scrolls recent commits">
+<defs>
+<linearGradient id="fadeTop" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#07110d"/><stop offset="1" stop-color="#07110d" stop-opacity="0"/></linearGradient>
+<linearGradient id="fadeBottom" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#07110d" stop-opacity="0"/><stop offset="1" stop-color="#07110d"/></linearGradient>
+<clipPath id="frame"><rect width="840" height="420" rx="12"/></clipPath>
+<style>
+.roll{animation:roll 19.5s linear infinite}
+@keyframes roll{to{transform:translateY(-195px)}}
+.star{animation:twinkle 3s ease-in-out infinite}
+@keyframes twinkle{50%{opacity:.15}}
+.steam{opacity:0;animation:steam 2.6s ease-out infinite}
+@keyframes steam{20%{opacity:.7}100%{opacity:0;transform:translateY(-14px)}}
+.zz{opacity:0;animation:zz 3s ease-out infinite}
+@keyframes zz{20%{opacity:1}100%{opacity:0;transform:translate(8px,-18px)}}
+@media (prefers-reduced-motion:reduce){.star,.steam,.zz{animation:none}}
+</style>
+</defs>
+<g clip-path="url(#frame)" shape-rendering="crispEdges">
+<rect x="0" y="0" width="840" height="420" fill="#1b1d33"/>
+<rect x="20" y="0" width="4" height="336" fill="#171930"/>
+<rect x="48" y="0" width="4" height="336" fill="#171930"/>
+<rect x="76" y="0" width="4" height="336" fill="#171930"/>
+<rect x="104" y="0" width="4" height="336" fill="#171930"/>
+<rect x="132" y="0" width="4" height="336" fill="#171930"/>
+<rect x="160" y="0" width="4" height="336" fill="#171930"/>
+<rect x="188" y="0" width="4" height="336" fill="#171930"/>
+<rect x="216" y="0" width="4" height="336" fill="#171930"/>
+<rect x="244" y="0" width="4" height="336" fill="#171930"/>
+<rect x="272" y="0" width="4" height="336" fill="#171930"/>
+<rect x="300" y="0" width="4" height="336" fill="#171930"/>
+<rect x="328" y="0" width="4" height="336" fill="#171930"/>
+<rect x="356" y="0" width="4" height="336" fill="#171930"/>
+<rect x="384" y="0" width="4" height="336" fill="#171930"/>
+<rect x="412" y="0" width="4" height="336" fill="#171930"/>
+<rect x="440" y="0" width="4" height="336" fill="#171930"/>
+<rect x="468" y="0" width="4" height="336" fill="#171930"/>
+<rect x="496" y="0" width="4" height="336" fill="#171930"/>
+<rect x="524" y="0" width="4" height="336" fill="#171930"/>
+<rect x="552" y="0" width="4" height="336" fill="#171930"/>
+<rect x="580" y="0" width="4" height="336" fill="#171930"/>
+<rect x="608" y="0" width="4" height="336" fill="#171930"/>
+<rect x="636" y="0" width="4" height="336" fill="#171930"/>
+<rect x="664" y="0" width="4" height="336" fill="#171930"/>
+<rect x="692" y="0" width="4" height="336" fill="#171930"/>
+<rect x="720" y="0" width="4" height="336" fill="#171930"/>
+<rect x="748" y="0" width="4" height="336" fill="#171930"/>
+<rect x="776" y="0" width="4" height="336" fill="#171930"/>
+<rect x="804" y="0" width="4" height="336" fill="#171930"/>
+<rect x="832" y="0" width="4" height="336" fill="#171930"/>
+<rect x="0" y="336" width="840" height="84" fill="#4a2a1c"/>
+<rect x="0" y="336" width="840" height="6" fill="#6b3d26"/>
+<rect x="0" y="362" width="840" height="2" fill="#3a2015"/>
+<rect x="0" y="390" width="840" height="2" fill="#3a2015"/>
+<rect x="150" y="342" width="2" height="20" fill="#3a2015"/>
+<rect x="520" y="342" width="2" height="20" fill="#3a2015"/>
+<rect x="330" y="364" width="2" height="26" fill="#3a2015"/>
+<rect x="700" y="364" width="2" height="26" fill="#3a2015"/>
+<rect x="90" y="392" width="2" height="28" fill="#3a2015"/>
+<rect x="460" y="392" width="2" height="28" fill="#3a2015"/>
+<rect x="32" y="48" width="196" height="156" fill="#0c0d16"/>
+<rect x="40" y="56" width="86" height="66" fill="#0b1a4a"/>
+<rect x="134" y="56" width="86" height="66" fill="#0b1a4a"/>
+<rect x="40" y="130" width="86" height="66" fill="#0b1a4a"/>
+<rect x="134" y="130" width="86" height="66" fill="#0b1a4a"/>
+<rect x="176" y="68" width="6" height="18" fill="#f4ead2"/>
+<rect x="182" y="80" width="12" height="6" fill="#f4ead2"/>
+<rect x="62" y="78" width="3" height="3" fill="#dfe6ff" class="star" style="animation-delay:0s"/>
+<rect x="104" y="104" width="3" height="3" fill="#dfe6ff" class="star" style="animation-delay:1.2s"/>
+<rect x="156" y="64" width="3" height="3" fill="#dfe6ff" class="star" style="animation-delay:2.1s"/>
+<rect x="206" y="106" width="3" height="3" fill="#dfe6ff" class="star" style="animation-delay:0.6s"/>
+<rect x="70" y="160" width="3" height="3" fill="#dfe6ff" class="star" style="animation-delay:1.7s"/>
+<rect x="112" y="142" width="3" height="3" fill="#dfe6ff" class="star" style="animation-delay:2.6s"/>
+<rect x="150" y="176" width="3" height="3" fill="#dfe6ff" class="star" style="animation-delay:0.9s"/>
+<rect x="198" y="150" width="3" height="3" fill="#dfe6ff" class="star" style="animation-delay:2.3s"/>
+<rect x="24" y="204" width="212" height="10" fill="#6b4a33"/>
+<rect x="24" y="214" width="212" height="4" fill="#4f3524"/>
+<rect x="296" y="36" width="248" height="48" fill="#14141f"/>
+<rect x="300" y="40" width="240" height="40" fill="#f4ead2"/>
+<path d="M322 46h4v4h-4zM326 46h4v4h-4zM330 46h4v4h-4zM326 50h4v4h-4zM326 54h4v4h-4zM326 58h4v4h-4zM326 62h4v4h-4zM314 66h4v4h-4zM326 66h4v4h-4zM318 70h4v4h-4zM322 70h4v4h-4zM342 46h4v4h-4zM346 46h4v4h-4zM350 46h4v4h-4zM338 50h4v4h-4zM354 50h4v4h-4zM338 54h4v4h-4zM354 54h4v4h-4zM338 58h4v4h-4zM342 58h4v4h-4zM346 58h4v4h-4zM350 58h4v4h-4zM354 58h4v4h-4zM338 62h4v4h-4zM354 62h4v4h-4zM338 66h4v4h-4zM354 66h4v4h-4zM338 70h4v4h-4zM354 70h4v4h-4zM362 46h4v4h-4zM378 46h4v4h-4zM362 50h4v4h-4zM366 50h4v4h-4zM374 50h4v4h-4zM378 50h4v4h-4zM362 54h4v4h-4zM370 54h4v4h-4zM378 54h4v4h-4zM362 58h4v4h-4zM370 58h4v4h-4zM378 58h4v4h-4zM362 62h4v4h-4zM378 62h4v4h-4zM362 66h4v4h-4zM378 66h4v4h-4zM362 70h4v4h-4zM378 70h4v4h-4zM386 46h4v4h-4zM390 46h4v4h-4zM394 46h4v4h-4zM398 46h4v4h-4zM402 46h4v4h-4zM386 50h4v4h-4zM386 54h4v4h-4zM386 58h4v4h-4zM390 58h4v4h-4zM394 58h4v4h-4zM398 58h4v4h-4zM386 62h4v4h-4zM386 66h4v4h-4zM386 70h4v4h-4zM390 70h4v4h-4zM394 70h4v4h-4zM398 70h4v4h-4zM402 70h4v4h-4zM414 46h4v4h-4zM418 46h4v4h-4zM422 46h4v4h-4zM426 46h4v4h-4zM410 50h4v4h-4zM410 54h4v4h-4zM414 58h4v4h-4zM418 58h4v4h-4zM422 58h4v4h-4zM426 62h4v4h-4zM426 66h4v4h-4zM410 70h4v4h-4zM414 70h4v4h-4zM418 70h4v4h-4zM422 70h4v4h-4zM458 46h4v4h-4zM462 46h4v4h-4zM466 46h4v4h-4zM470 46h4v4h-4zM474 46h4v4h-4zM474 50h4v4h-4zM470 54h4v4h-4zM466 58h4v4h-4zM462 62h4v4h-4zM458 66h4v4h-4zM458 70h4v4h-4zM462 70h4v4h-4zM466 70h4v4h-4zM470 70h4v4h-4zM474 70h4v4h-4zM482 46h4v4h-4zM498 46h4v4h-4zM482 50h4v4h-4zM498 50h4v4h-4zM482 54h4v4h-4zM498 54h4v4h-4zM482 58h4v4h-4zM486 58h4v4h-4zM490 58h4v4h-4zM494 58h4v4h-4zM498 58h4v4h-4zM482 62h4v4h-4zM498 62h4v4h-4zM482 66h4v4h-4zM498 66h4v4h-4zM482 70h4v4h-4zM498 70h4v4h-4zM506 46h4v4h-4zM522 46h4v4h-4zM506 50h4v4h-4zM522 50h4v4h-4zM506 54h4v4h-4zM522 54h4v4h-4zM506 58h4v4h-4zM522 58h4v4h-4zM506 62h4v4h-4zM522 62h4v4h-4zM506 66h4v4h-4zM522 66h4v4h-4zM510 70h4v4h-4zM514 70h4v4h-4zM518 70h4v4h-4z" fill="#14141f" shape-rendering="crispEdges"/>
+<circle cx="734" cy="78" r="25" fill="#f4ead2" stroke="#14141f" stroke-width="5"/>
+<rect x="732" y="62" width="4" height="18" fill="#14141f"/>
+<rect x="732" y="76" width="14" height="4" fill="#14141f"/>
+<rect x="650" y="176" width="160" height="8" fill="#7a4a2c"/>
+<rect x="650" y="184" width="160" height="3" fill="#4f2f1c"/>
+<rect x="650" y="238" width="160" height="8" fill="#7a4a2c"/>
+<rect x="650" y="246" width="160" height="3" fill="#4f2f1c"/>
+<rect x="658" y="132" width="12" height="44" fill="#f34b7d"/>
+<rect x="658" y="138" width="12" height="3" fill="rgba(0,0,0,.25)"/>
+<rect x="672" y="142" width="12" height="34" fill="#427819"/>
+<rect x="672" y="148" width="12" height="3" fill="rgba(0,0,0,.25)"/>
+<rect x="668" y="218" width="26" height="20" fill="#3d4763"/>
+<rect x="672" y="222" width="18" height="4" fill="#f4ead2"/>
+<rect x="770" y="226" width="30" height="12" fill="#8a5a3c"/>
+<polygon points="250,172 300,172 344,272 226,272" fill="#f5cf5b" opacity=".07"/>
+<rect x="270" y="172" width="6" height="96" fill="#4a4f63"/>
+<rect x="258" y="266" width="30" height="6" fill="#4a4f63"/>
+<polygon points="256,150 290,150 300,172 246,172" fill="#f5cf5b"/>
+<rect x="304" y="100" width="232" height="150" fill="#3a3f52"/>
+<rect x="312" y="108" width="216" height="134" fill="#07110d"/>
+<rect x="412" y="250" width="16" height="18" fill="#3a3f52"/>
+<rect x="388" y="266" width="64" height="6" fill="#2c3040"/>
+<clipPath id="screen"><rect x="312" y="108" width="216" height="134"/></clipPath>
+<g clip-path="url(#screen)"><g class="roll" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="10" font-weight="600"><text x="320" y="122" fill="#e6ffed">$ git log --oneline</text><text x="320" y="137" fill="#4ade80">magic-adapter: Add download link…</text><text x="320" y="152" fill="#4ade80">magic-adapter: Initial release of…</text><text x="320" y="167" fill="#4ade80">caffine_tracke: Rename README ima…</text><text x="320" y="182" fill="#4ade80">caffine_tracke: Remove the camera…</text><text x="320" y="197" fill="#4ade80">caffine_tracke: Use a thinner, be…</text><text x="320" y="212" fill="#4ade80">caffine_tracke: Rewrite README as…</text><text x="320" y="227" fill="#4ade80">caffine_tracke: Add demo data lau…</text><text x="320" y="242" fill="#4ade80">caffine_tracke: Merge remote-trac…</text><text x="320" y="257" fill="#4ade80">caffine_tracke: Remove &quot;awareness…</text><text x="320" y="272" fill="#4ade80">caffine_tracke: redesign product…</text><text x="320" y="287" fill="#4ade80">caffine_tracke: Merge remote-trac…</text><text x="320" y="302" fill="#4ade80">caffine_tracke: Add Last Can prod…</text><text x="320" y="317" fill="#e6ffed">$ git log --oneline</text><text x="320" y="332" fill="#4ade80">magic-adapter: Add download link…</text><text x="320" y="347" fill="#4ade80">magic-adapter: Initial release of…</text><text x="320" y="362" fill="#4ade80">caffine_tracke: Rename README ima…</text><text x="320" y="377" fill="#4ade80">caffine_tracke: Remove the camera…</text><text x="320" y="392" fill="#4ade80">caffine_tracke: Use a thinner, be…</text><text x="320" y="407" fill="#4ade80">caffine_tracke: Rewrite README as…</text><text x="320" y="422" fill="#4ade80">caffine_tracke: Add demo data lau…</text><text x="320" y="437" fill="#4ade80">caffine_tracke: Merge remote-trac…</text><text x="320" y="452" fill="#4ade80">caffine_tracke: Remove &quot;awareness…</text><text x="320" y="467" fill="#4ade80">caffine_tracke: redesign product…</text><text x="320" y="482" fill="#4ade80">caffine_tracke: Merge remote-trac…</text><text x="320" y="497" fill="#4ade80">caffine_tracke: Add Last Can prod…</text></g></g>
+<rect x="312" y="108" width="216" height="12" fill="url(#fadeTop)"/>
+<rect x="312" y="230" width="216" height="12" fill="url(#fadeBottom)"/>
+<rect x="240" y="272" width="360" height="14" fill="#7a4a2c"/>
+<rect x="240" y="286" width="360" height="6" fill="#5c3620"/>
+<rect x="252" y="292" width="12" height="50" fill="#5c3620"/>
+<rect x="576" y="292" width="12" height="50" fill="#5c3620"/>
+<rect x="552" y="252" width="20" height="20" fill="#e8e2d0"/>
+<rect x="572" y="256" width="8" height="4" fill="#e8e2d0"/>
+<rect x="576" y="260" width="4" height="6" fill="#e8e2d0"/>
+<rect x="572" y="264" width="8" height="4" fill="#e8e2d0"/>
+<rect x="556" y="240" width="3" height="6" fill="#cfd3e6" class="steam"/>
+<rect x="564" y="238" width="3" height="6" fill="#cfd3e6" class="steam" style="animation-delay:1.3s"/>
+<rect x="444" y="258" width="8" height="46" fill="#2a2e3d"/>
+<rect x="380" y="300" width="76" height="10" fill="#2f3344"/>
+<rect x="414" y="310" width="8" height="30" fill="#2a2e3d"/>
+<rect x="392" y="340" width="52" height="6" fill="#2a2e3d"/>
+<rect x="152" y="232" width="6" height="62" fill="#2f9e44"/>
+<rect x="146" y="224" width="18" height="8" fill="#37b24d"/>
+<rect x="134" y="242" width="18" height="8" fill="#37b24d"/>
+<rect x="158" y="250" width="20" height="8" fill="#37b24d"/>
+<rect x="132" y="262" width="20" height="8" fill="#37b24d"/>
+<rect x="158" y="272" width="18" height="8" fill="#37b24d"/>
+<rect x="128" y="290" width="54" height="8" fill="#8c4a30"/>
+<rect x="132" y="298" width="46" height="38" fill="#a85a3a"/>
+<rect x="652" y="326" width="26" height="6" fill="#d98f48"/>
+<rect x="676" y="312" width="56" height="24" fill="#e8a45c"/>
+<rect x="722" y="302" width="26" height="24" fill="#e8a45c"/>
+<rect x="722" y="296" width="6" height="6" fill="#e8a45c"/>
+<rect x="742" y="296" width="6" height="6" fill="#e8a45c"/>
+<rect x="690" y="312" width="4" height="10" fill="#d98f48"/>
+<rect x="702" y="312" width="4" height="10" fill="#d98f48"/>
+<rect x="730" y="314" width="6" height="2" fill="#3a2015"/>
+<rect x="740" y="314" width="6" height="2" fill="#3a2015"/>
+<text x="756" y="292" class="zz" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="16" font-weight="700" fill="#aab2d5">z</text>
+<text x="766" y="276" class="zz" style="animation-delay:1.5s" font-family="ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace" font-size="12" font-weight="700" fill="#aab2d5">z</text>
+</g>
+</svg>
